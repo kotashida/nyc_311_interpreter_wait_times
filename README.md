@@ -23,7 +23,7 @@ This project provides an automated pipeline that ingests NYC 311 interpreter wai
 
 1.  Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/kotashida/nyc_311_interpreter_wait_times
     ```
 2.  Navigate to the project directory:
     ```bash
